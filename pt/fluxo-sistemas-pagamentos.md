@@ -1,7 +1,7 @@
-##Participantes
-> Cartão
-> Cliente
-> Banco Emissor
-> Bandeira
-> Adquirente
-> Terminal
+## Participantes
+- Cartão
+- Cliente
+- Banco Emissor
+- Bandeira
+- Adquirente
+- Terminal
